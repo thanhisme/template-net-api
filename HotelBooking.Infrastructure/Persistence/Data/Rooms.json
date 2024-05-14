@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": 1,
+    "roomNumber": "101",
+    "type": 0,
+    "pricePerNight": 100
+  },
+  {
+    "id": 2,
+    "roomNumber": "102",
+    "type": 1,
+    "pricePerNight": 150
+  },
+  {
+    "id": 3,
+    "roomNumber": "103",
+    "type": 2,
+    "pricePerNight": 200
+  },
+  {
+    "id": 4,
+    "roomNumber": "104",
+    "type": 0,
+    "pricePerNight": 100
+  },
+  {
+    "id": 5,
+    "roomNumber": "105",
+    "type": 1,
+    "pricePerNight": 150
+  },
+  {
+    "id": 6,
+    "roomNumber": "106",
+    "type": 2,
+    "pricePerNight": 200
+  },
+  {
+    "id": 7,
+    "roomNumber": "107",
+    "type": 0,
+    "pricePerNight": 100
+  },
+  {
+    "id": 8,
+    "roomNumber": "108",
+    "type": 1,
+    "pricePerNight": 150
+  },
+  {
+    "id": 9,
+    "roomNumber": "109",
+    "type": 2,
+    "pricePerNight": 200
+  },
+  {
+    "id": 10,
+    "roomNumber": "110",
+    "type": 0,
+    "pricePerNight": 100
+  }
+]

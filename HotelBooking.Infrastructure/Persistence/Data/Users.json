@@ -1,0 +1,82 @@
+[
+  {
+    "userId": 1,
+    "name": "Admin One",
+    "email": "admin1@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Admin Street, City",
+    "role": 1
+  },
+  {
+    "userId": 2,
+    "name": "Receptionist One",
+    "email": "receptionist1@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Receptionist Street, City",
+    "role": 0
+  },
+  {
+    "userId": 3,
+    "name": "Admin Two",
+    "email": "admin2@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Admin Street, City",
+    "role": 2
+  },
+  {
+    "userId": 4,
+    "name": "Receptionist Two",
+    "email": "receptionist2@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Receptionist Street, City",
+    "role": 0
+  },
+  {
+    "userId": 5,
+    "name": "Admin Three",
+    "email": "admin3@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Admin Street, City",
+    "role": 1
+  },
+  {
+    "userId": 6,
+    "name": "Receptionist Three",
+    "email": "receptionist3@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Receptionist Street, City",
+    "role": 0
+  },
+  {
+    "userId": 7,
+    "name": "Admin Four",
+    "email": "admin4@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Admin Street, City",
+    "role": 1
+  },
+  {
+    "userId": 8,
+    "name": "Receptionist Four",
+    "email": "receptionist4@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Receptionist Street, City",
+    "role": 0
+  },
+  {
+    "userId": 9,
+    "name": "Admin Five",
+    "email": "admin5@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Admin Street, City",
+    "role": 1
+  },
+  {
+    "userId": 10,
+    "name": "Receptionist Five",
+    "email": "receptionist5@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Receptionist Street, City",
+    "role": 0
+  }
+]
